@@ -1,15 +1,19 @@
-# Syntelix
+<p align="center">
+  <a href="https://syntelix.ia.br">
+    <img src="https://syntelix.ia.br/brand/og-syntelix.png" alt="Syntelix — Inteligência que Conecta" width="800">
+  </a>
+</p>
 
-**Inteligência que Conecta.**
+Somos um AI Lab brasileiro que reúne pessoas e tecnologia para desenvolver soluções úteis. Exploramos pesquisa aplicada, agentes de IA e automação para aproximar novas possibilidades dos desafios do dia a dia.
 
-A Syntelix é um laboratório brasileiro de inteligência artificial. Trabalhamos com pesquisa aplicada, software e automação, orientados por inteligência compartilhada, inteligência distribuída e progresso compartilhado.
+Este espaço reúne nossos projetos públicos. Para conhecer uma iniciativa, comece pelo README do respectivo repositório.
 
-## Conheça nosso trabalho
+## Explore
 
-- [Site da Syntelix](https://syntelix.ia.br)
-- [Repositórios públicos](https://github.com/orgs/Syntelix-AI/repositories?type=public)
-- [Contato institucional](mailto:contato@syntelix.ia.br)
+- [Conheça a Syntelix](https://syntelix.ia.br)
+- [Explore os repositórios](https://github.com/orgs/Syntelix-AI/repositories?type=public)
+- [Converse com a gente](mailto:contato@syntelix.ia.br)
 
-## Colabore
+## Contribua
 
-Consulte o README do projeto que deseja conhecer ou usar. As [orientações gerais de contribuição](https://github.com/Syntelix-AI/.github/blob/main/CONTRIBUTING.md) complementam as instruções de cada repositório.
+Ideias, relatos de problemas e melhorias são bem-vindos. Consulte as [orientações de contribuição](https://github.com/Syntelix-AI/.github/blob/main/CONTRIBUTING.md) e as instruções do projeto antes de começar.
